@@ -1,7 +1,7 @@
 # Web Data Visualization Final Project
 
 ## Data 8 Connector -- Web Data Visualization -- Final Project
-Group members:
+Group members: <br/>
 Michael Wu
 Sara Wu
 Angie Mejia
