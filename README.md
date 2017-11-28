@@ -2,34 +2,34 @@
 
 ## Data 8 Connector -- Web Data Visualization -- Final Project
 Group members: <br/>
-Michael Wu
-Sara Wu
-Angie Mejia
-Prenav Bhasin
+Michael Wu<br/>
+Sara Wu<br/>
+Angie Mejia<br/>
+Prenav Bhasin<br/>
 
-Github Repo Table of Content:
-1. Data
-    a) Education.xls
-    b) FinancialAidByLocation.xls
-    c) PopulationEstimates.xls
-    d) PovertyEstimates.xls
-    e) Unemployment.xls
-    f) st99_d00.dbf
-    g) st99_d00.shp
-    h) st99_d00.shx
-    
-2. Images
-    a) different_dataset_2.png
-    b) different_dataset_3.png
-    c) differernt_dataset_1.png
-    d) filtering_data_1.png
-    e) filtering_data_2.png
-    
-3. Project Milestones
-    a) Initial Project Description.pdf
-    b) Project Milestone 2.pdf
-    c) Project Milestone 3.pdf
-    
-4. Visualization.ipynb
+Github Repo Table of Content:<br/>
+1. Data<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) Education.xls<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) FinancialAidByLocation.xls<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) PopulationEstimates.xls<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d) PovertyEstimates.xls<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e) Unemployment.xls<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f) st99_d00.dbf<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g) st99_d00.shp<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;h) st99_d00.shx<br/>
+    <br/>
+2. Images<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) different_dataset_2.png<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) different_dataset_3.png<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) differernt_dataset_1.png<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d) filtering_data_1.png<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e) filtering_data_2.png<br/>
+    <br/>
+3. Project Milestones<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) Initial Project Description.pdf<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) Project Milestone 2.pdf<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) Project Milestone 3.pdf<br/>
+    <br/>
+4. Visualization.ipynb<br/>
 
 
