@@ -18,7 +18,7 @@ Github Repo Table of Content:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g) st99_d00.shp<br/>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;h) st99_d00.shx<br/>
     <br/>
-2. Images<br/>
+2. Images <br/>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) different_dataset_2.png<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) different_dataset_3.png<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) differernt_dataset_1.png<br/>
@@ -31,5 +31,9 @@ Github Repo Table of Content:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) Project Milestone 3.pdf<br/>
     <br/>
 4. Visualization.ipynb<br/>
+
+*Note: st99 files are map objects
+*Note: all images in images are used for presentation
+*Note Visualization.ipynb is the main code.
 
 
