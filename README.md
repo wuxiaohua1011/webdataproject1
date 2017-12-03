@@ -34,6 +34,6 @@ Github Repo Table of Content:<br/>
 
 *Note: st99 files are map objects<br/>
 *Note: all images in images are used for presentation<br/>
-*Note Visualization.ipynb is the main code.
+*Note Visualization.ipynb contains all the codes and have detailed explanation below each section of the codes
 
 
