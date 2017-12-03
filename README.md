@@ -31,6 +31,7 @@ Github Repo Table of Content:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) Project Milestone 3.pdf<br/>
     <br/>
 4. Visualization.ipynb<br/>
+5. Final Report.pdf<br/>
 
 *Note: st99 files are map objects<br/>
 *Note: all images in images are used for presentation<br/>
