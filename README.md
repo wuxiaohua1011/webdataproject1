@@ -5,7 +5,7 @@ Group members: <br/>
 Michael Wu<br/>
 Sara Wu<br/>
 Angie Mejia<br/>
-Prenav Bhasin<br/>
+Pranav Bhasin<br/>
 
 Github Repo Table of Content:<br/>
 1. Data<br/>
